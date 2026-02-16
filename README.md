@@ -30,7 +30,7 @@ DevOps: Docker, Linux, Jenkins
 
 <td valign="top" width="25%" align="center">
 <h3>Frontend</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js&perline=4" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind&perline=4" />
 </td>
 
 <td valign="top" width="25%" align="center">
