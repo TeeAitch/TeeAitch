@@ -1,4 +1,4 @@
-<h1 align="center">Hi, i am Tolga 👋</h1>
+
 
 <p align="center">
 Fullstack Developer
@@ -47,8 +47,3 @@ DevOps: Docker, Linux, Jenkins
 </table>
 
 </div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TeeAitch&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeeAitch&layout=compact&theme=tokyonight" height="160"/>
-</p>
