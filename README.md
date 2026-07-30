@@ -2,7 +2,7 @@
 
 Software engineer with an architect's mindset. I like systems that are **boring in production** — clear structure, honest tests, and a straight path from commit to server.
 
-Right now: **Java** for the fun parts, **Go** for the lean ones, a lot of **AI-assisted development**, **GitHub Actions** everywhere, and **Kubernetes** next on the list.
+Right now: **Java** for the fun parts, **Go** for the lean ones, **GitHub Actions** everywhere, and **Kubernetes** next on the list. I use AI tooling daily — it goes through the same review, tests and gates as anything else.
 
 What I care about:
 
